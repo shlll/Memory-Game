@@ -56,7 +56,7 @@ Details:
 
 ## Issues/Planned Changes/Roadmap
 
- This game drawback is these small blocks should be put them in a flexible position instead of fixed position. In this way, users can enchance their imagination and boost their interests. However, users are not able to click three small blocks toghther, because it is not a memory game's model and lose its original purpose. In the future, this game can be added something specials, such as adding some background music when 2 small cards are matched or making some animation effect when the cards are not matched.
+ This game drawback is these small blocks should be put them in a flexible position instead of fixed position. In this way, users can enchance their imagination and boost their interests. However, users are not able to click three small blocks toghther, because it is not this memory game's mode. In the future, this game can be added something specials, such as adding some background music when 2 small cards are matched or making some animation effect when the cards are not matched.
  
  
  ## Author
