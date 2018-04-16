@@ -2,6 +2,8 @@
 
 ## Badge
 
+
+
 ## Introduction
 
 Memory-Game is also called "Concertation". It is a card game in which any two of the cards should be corresponded with each other and when 
