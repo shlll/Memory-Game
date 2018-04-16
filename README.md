@@ -24,9 +24,12 @@ all of the cards are connected, the game was over.It is adapt for children, adul
 
 ## Below this caption, the left side which has some stars and the logo called "0 moves" means how many times did you clicked.
 
-![Image-name](https://github.com/shlll/Memory-Game/blob/master/small%20block.GIF?raw=true)
 
 ## This is the small block, when you open it, it shows the pattern like this:
+
+![Image-name](https://github.com/shlll/Memory-Game/blob/master/small%20block.GIF?raw=true)
+
+
 
 ![Image-name](https://github.com/shlll/Memory-Game/blob/master/big%20block.GIF?raw=true)
 
