@@ -5,6 +5,11 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 
+[![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](https://forthebadge.com)
+
+
 ## Introduction
 
 Memory-Game is also called "Concertation". It is a card game in which any two of the cards should be corresponded with each other and when 
