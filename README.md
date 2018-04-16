@@ -9,6 +9,8 @@ all of the cards are connected, the game was over.It is adapt for children, adul
 
 ## Image
 
+## Parts of Game
+
 
 
 
