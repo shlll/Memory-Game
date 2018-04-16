@@ -12,7 +12,7 @@ all of the cards are connected, the game was over.It is adapt for children, adul
 
 ## Image
 
-![Image of Memory-Game](https://github.com/shlll/Memory-Game/blob/master/big%20block.GIF?raw=true)
+![Image of Memory-Game](https://github.com/shlll/Memory-Game/blob/master/overview.GIF?raw=true)
 
 ## Parts of Game
 
