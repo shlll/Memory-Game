@@ -7,6 +7,5 @@ all of the cards are connected, the game was over.It is adapt for children, adul
 
 ## Image
 
-![Image of the Matching-Game](file:///C:/Users/SD17/Documents/SHEN%20HAN%20LIN%2000000160145%20JavascriptBasics%20Final%20Project/index.html)
 
 
