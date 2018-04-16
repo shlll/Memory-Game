@@ -16,7 +16,7 @@ all of the cards are connected, the game was over.It is adapt for children, adul
 
 ## Parts of Game
 
-
+![image-name](https://github.com/shlll/Memory-Game/blob/master/small%20block.GIF?raw=true)
 
 
 
